@@ -1,1 +1,1 @@
-Print ("HELLO ANUSHKA")
+print ("HELLO ANUSHKA")
